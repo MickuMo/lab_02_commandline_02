@@ -18,8 +18,8 @@ $ echo hello
 
 Copy and paste the output below.
 ----------
-
-
+ent-v314-008:~ student$ echo hello
+hello
 
 ==========
 2. Type:
@@ -28,8 +28,8 @@ $ echo hello there
 
 Copy and paste the output below.
 ----------
-
-
+ent-v314-008:~ student$ echo hello there
+hello there
 
 ==========
 3. Type:
@@ -38,16 +38,15 @@ $ echo good mornin'
 
 Copy and paste the output below.
 ----------
-
-
+ent-v314-008:~ student$ echo good mornin'
+> 
 
 ==========
 4. Uh-oh... we're stuck!
 
 Type [CTRL + C] to get your prompt back.
 ----------
-
-
+ent-v314-008:~ student$ 
 
 ==========
 5. Say good mornin' again with quotes!
@@ -56,8 +55,8 @@ $ echo "good mornin'"
 
 Copy and paste the output below.
 ----------
-
-
+ent-v314-008:~ student$ echo "good mornin'"
+good mornin'
 
 ==========
 6. There are some other symbols that have special meanings if you don't quote them.  For example, > brings up a different prompt.  Try *.
